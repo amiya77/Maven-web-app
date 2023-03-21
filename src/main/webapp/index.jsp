@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'>Welcome to Virtual Employee Pvt. Ltd. <font></h1>
+<h2> Where the CEO says ,they saved 70% </h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href=https://www.virtualemployee.com/>Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call Us : + 91 - 9040159731 </h2>
 
 </body>
 </html>
